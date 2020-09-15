@@ -1,5 +1,8 @@
 _repo: Saara-Romaani_63103
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Janson, Kristofer
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Kristofer_Janson
     - https://no.wikipedia.org/wiki/Kristofer_Janson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63103#Saara-Romaani
 gutenberg_issued: '2020-09-02'
 gutenberg_type: Text
 identifiers:
