@@ -1,0 +1,28 @@
+_repo: Saara-Romaani_63103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Janson, Kristofer
+    alias: Janson, Christopher
+    birthdate: 1841
+    deathdate: 1917
+    gutenberg_agent_id: '25521'
+    url: http://www.gutenberg.org/2009/agents/25521
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Kristofer_Janson
+    - https://no.wikipedia.org/wiki/Kristofer_Janson
+description: ''
+gutenberg_issued: '2020-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63103'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Saara: Romaani'
+url: http://www.gutenberg.org/ebooks/63103
